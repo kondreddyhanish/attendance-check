@@ -1,0 +1,5 @@
+attendance_data.json
+attendance_chart.png
+__pycache__/
+*.pyc
+.env
